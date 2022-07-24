@@ -1,4 +1,5 @@
 Reddit-Yorum-Kaydedici
+
 Linki verilen posttaki reddit yorumlarını dosyaya kaydeder.
 
 Eğer kodu düzenlemeden kullanmak istiyorsanız .exe halini açabilirsiniz (.exe ile açmak için alttakileri indirmeniz gerekmez.)
