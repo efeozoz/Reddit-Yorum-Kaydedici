@@ -38,7 +38,7 @@ else:
     if sil == "evet":
         print('Dosya çoktan oluşmuş, eski dosya siliniyor.')
         os.remove(ad)    #Aynı addan dosya varsa silme
-        print("Silindi. Yenisi oluşturuşuyor")
+        print("Silindi. Yenisi oluşturuluyor")
         f = open(str(ad), 'w', encoding="utf-8")    #Dosya oluşturma
     else:
         time.sleep(1)   #Delay
