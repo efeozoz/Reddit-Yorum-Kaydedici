@@ -30,7 +30,7 @@ else:
     print("Dosya Adı: " + ad)
 
 if os.path.exists(str(ad)) == False:   #Dosya var mı yok mu kontrol etme
-    print("Dosya oluşturuşuyor")
+    print("Dosya oluşturuluyor")
     f = open(str(ad), 'w', encoding="utf-8")    #Dosya oluşturma
 else:
     print("Dosya çoktan oluşturulmuş. Eski dosyayı silmek ister misiniz (evet-hayır)")
